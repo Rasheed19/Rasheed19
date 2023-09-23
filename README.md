@@ -10,7 +10,7 @@
 
 <h2> About Me 📚📚 </h2>
 
-- 🔭 I’m currently working on my PhD at Maxwell Institute of Mathematical Science, University of Edinburgh, and Heriot-Watt University (and trying to please my Creator and survive :sweat_smile:)
+- 🔭 I’m currently working on my PhD at Maxwell Institute of Mathematical Sciences, University of Edinburgh, and Heriot-Watt University (and trying to please my Creator and survive :sweat_smile:)
 
 - 📚 I'm supported by the EPSRC's [MAC-MIGS Programme](https://www.mac-migs.ac.uk/) (2021 cohort) to develop Machine learning models for battery health prognostics
 
