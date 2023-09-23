@@ -10,7 +10,7 @@
 
 <h2> About Me 📚📚 </h2>
 
-- 🔭 I’m currently working on my PhD at Maxwell Institute of Mathematical Science, University of Edinburgh, and Heriot-Watt University [PoLiS Cluster of Excellence](https://www.postlithiumstorage.org/en) (and trying to please my Creator and survive :sweat_smile:)
+- 🔭 I’m currently working on my PhD at Maxwell Institute of Mathematical Science, University of Edinburgh, and Heriot-Watt University (and trying to please my Creator and survive :sweat_smile:)
 
 - 📚 I'm supported by the EPSRC's [MAC-MIGS Programme](https://www.mac-migs.ac.uk/) (2021 cohort) to develop Machine learning models for battery health prognostics
 
@@ -28,6 +28,5 @@
 <br>
 
 ![Rasheed's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph-seven-blush.vercel.app/graph?username=Rasheed19&theme=react-dark&hide_border=true&area=true)
-
 |![Rasheed's github stats](https://github-readme-stats-8eypqtm8b-Rasheed19.vercel.app/api?username=fuzhanrahmanian&show_icons=true&hide_border=true&bg_color=0d1117&text_color=5bcdec&title_color=5bcdec&icon_color=ffffff&include_all_commits=true)|![Rasheed's GitHub Streak](https://github-readme-streak-stats-theta.vercel.app/?user=Rasheed19&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&ring=5bcdec&currStreakLabel=5bcdec&fire=5bcdec&sideLabels=5bcdec&hide_border=true)|
 | ----- | --- |
