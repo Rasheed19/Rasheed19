@@ -29,5 +29,5 @@
 
 ![Rasheed's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph-seven-blush.vercel.app/graph?username=Rasheed19&theme=react-dark&hide_border=true&area=true)
 
-|[![Rasheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasheed19&show_icons=true&hide_border=true&bg_color=0d1117&text_color=5bcdec&title_color=5bcdec&icon_color=ffffff&include_all_commits=true)|![Rasheed's GitHub Streak](https://github-readme-streak-stats-theta.vercel.app/?user=Rasheed19&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&ring=5bcdec&currStreakLabel=5bcdec&fire=5bcdec&sideLabels=5bcdec&hide_border=true)|
+|![Rasheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasheed19&show_icons=true&hide_border=true&bg_color=0d1117&text_color=5bcdec&title_color=5bcdec&icon_color=ffffff&include_all_commits=true)|![Rasheed's GitHub Streak](https://github-readme-streak-stats-theta.vercel.app/?user=Rasheed19&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&ring=5bcdec&currStreakLabel=5bcdec&fire=5bcdec&sideLabels=5bcdec&hide_border=true)|
 | ----- | --- |
