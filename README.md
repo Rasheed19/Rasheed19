@@ -14,9 +14,9 @@
 
 - 📚 I'm supported by the EPSRC's [MAC-MIGS Programme](https://www.mac-migs.ac.uk/) (2021 cohort) to develop Machine learning models for battery health prognostics
 
-- 🌱 I’m currently learning Applied Mathematics, Machine learning and Model Deployment
+- 🌱 I’m currently learning Applied Mathematics, Data-driven models for battery life prognostics, and Machine Learning Operations (MLOps)
 
-- 💬 Talk to me about Python, Maths, Machine learning, and Research
+- 💬 Talk to me about Maths, Python, Machine learning, MLOps, Battery modelling, and Research
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/rasheed-oyewole-ibraheem-768955246/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
