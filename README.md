@@ -22,12 +22,3 @@
 <a href = 'https://www.linkedin.com/in/rasheed-oyewole-ibraheem-768955246/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href = 'https://github.com/Rasheed19/Rasheed19'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://scholar.google.com/citations?user=D6cwjFMAAAAJ&hl=en'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"/></a>
-
-<br>
-<br>
-<br>
-
-![Rasheed's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph-seven-blush.vercel.app/graph?username=Rasheed19&theme=react-dark&hide_border=true&area=true)
-
-|![Rasheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasheed19&show_icons=true&hide_border=true&bg_color=0d1117&text_color=5bcdec&title_color=5bcdec&icon_color=ffffff)|![Rasheed's GitHub Streak](https://github-readme-streak-stats-theta.vercel.app/?user=Rasheed19&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&ring=5bcdec&currStreakLabel=5bcdec&fire=5bcdec&sideLabels=5bcdec&hide_border=true)|
-| ----- | --- |
