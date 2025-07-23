@@ -8,7 +8,7 @@ Hi! My name is Rasheed, and I am an Impact Engineer at [**M-DICE**](https://mdic
 ![Profile views](https://komarev.com/ghpvc/?username=Rasheed19&color=blue)
 [![Github](https://img.shields.io/github/followers/Rasheed19?label=Follow&style=social)](https://github.com/Rasheed19)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasheed-oyewole-ibraheem-768955246/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasheed-oyewole-ibraheem-768955246/)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=Google%20Scholar&logoColor=FFFFFF)](https://scholar.google.com/citations?user=D6cwjFMAAAAJ&hl=en)
 
 ## Some highlights
