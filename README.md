@@ -13,9 +13,9 @@ Hi! My name is Rasheed, and I am an Impact Engineer at [**M-DICE**](https://mdic
 
 ## Some highlights
 
-- Built realistic synthetic microbubble tracks generator (of images obtained from the ultrasound scan of prostate cancer) [@**M-DICE**](https://mdice.site.hw.ac.uk/).
-- Built a location intelligence tool for identifying the suitability, viability, and risks of installing EV chargers [@**Vahanomy**](https://www.vahanomy.com/).
+- Built realistic synthetic microbubble track generator (of images obtained from the ultrasound scan of prostate cancer) [@**M-DICE**](https://mdice.site.hw.ac.uk/).
+- Built a location intelligence tool for identifying the suitability, viability, and risks of installing EV chargers in the UK [@**Vahanomy**](https://www.vahanomy.com/).
 - Held 6 semesters of academic tutoring of mathematics and computational courses [@**UOE**](https://www.ed.ac.uk/).
-- Built and maintains [rrct python package](https://pypi.org/project/rrct/) at [@**MAC-MIGS**](https://www.mac-migs.ac.uk/).
-- Published [6 peer-reviewed articles](https://scholar.google.com/citations?hl=en&user=D6cwjFMAAAAJ&view_op=list_works&sortby=pubdate) in battery modelling [@**MAC-MIGS**](https://www.mac-migs.ac.uk/).
+- Built and maintains [rrct python package](https://pypi.org/project/rrct/) [@**MAC-MIGS**](https://www.mac-migs.ac.uk/).
+- Published [5 peer-reviewed articles](https://scholar.google.com/citations?hl=en&user=D6cwjFMAAAAJ&view_op=list_works&sortby=pubdate) in battery modelling [@**MAC-MIGS**](https://www.mac-migs.ac.uk/).
 - Endorsed by the [UKRI](https://www.ukri.org/) as a Global Talent in scientific research and innovation.
