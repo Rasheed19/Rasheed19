@@ -2,7 +2,7 @@
 
 Hi! My name is Rasheed, and I am an Impact Engineer at [**M-DICE**](https://mdice.site.hw.ac.uk/).
 
-- 💛 I love productionising original research (raising [TRL](https://www.ukri.org/councils/stfc/guidance-for-applicants/check-if-youre-eligible-for-funding/eligibility-of-technology-readiness-levels-trl/) to 7 and 8) and building scalable ML pipelines.
+- 💛 I love productionising original research and building scalable ML pipelines.
 - 🔭 Formerly at [**Vahanomy**](https://www.vahanomy.com/), [**MAC-MIGS**](https://www.mac-migs.ac.uk/), and [**UOE**](https://www.ed.ac.uk/).
 
 ![Profile views](https://komarev.com/ghpvc/?username=Rasheed19&color=blue)
